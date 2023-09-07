@@ -1,5 +1,5 @@
- import {Store} from './dependencyInversion';
- import { Stripe } from './stripe';
+ import {Store} from './dependencyInversion.js';
+ import { Stripe } from './stripe.js';
 
 
  
